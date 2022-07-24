@@ -1,2 +1,2 @@
 # TestImpactAnalysis.DependencyGraphBuilder
-Build dependency between projects 
+Build a graph of the dependencies between projects 
